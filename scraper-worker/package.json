@@ -1,0 +1,14 @@
+{
+  "name": "scraper-worker",
+  "version": "1.0.0",
+  "description": "OPGG scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Yanez <@yanezcodes>",
+  "license": "ISC",
+  "dependencies": {
+    "opgg-scraper": "^1.1.4"
+  }
+}

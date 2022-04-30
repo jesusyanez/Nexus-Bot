@@ -1,0 +1,16 @@
+{
+  "name": "nexus-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for SitePoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jesus Yanez <@yanezcodes>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
