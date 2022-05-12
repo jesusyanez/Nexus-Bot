@@ -4,6 +4,8 @@ const bot = new Discord.Client();
 const TOKEN = process.env.TOKEN;
 const scraper = require("./scraper-worker/scraper");
 
+
+
 bot.login(TOKEN);
 
 bot.on("ready", () => {
@@ -17,9 +19,14 @@ bot.on("message", async (msg) => {
     name = name.slice(3);
     console.log(name);
     const data = await scraper.getStats(name);
-    //console.log("bot index " + data);
     console.log(data);
-    msg.channel.send("Rank: " + JSON.stringify(data.Rank));
-    msg.channel.send("KDA Ratio: " + JSON.stringify(data.KDARatio));
+    // msg.channel.send(JSON.stringify(data));
+    // msg.channel.send("```"+"```");
+    // msg.channel.send("ProfilePic: " + JSON.stringify(data.ProfilePic));
+    const { markdownTable } = await import ('markdown-table');
+    const goat = markdownTable(data.RecentlyPlayedWith);
+    console.log(goat);
+    msg.channel.send("```" + "Recently Played With - "  + data.Name+ "\n\n"  +  goat +"```");
   }
 });
+
