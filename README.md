@@ -18,7 +18,11 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<div align="center">
+  <a href="https://jesusyanez.github.io/Techline/">
+    <img src="images/nexus-logo.jpg" alt="Product Screenshot">
+  </a>
+</div>
 <div align="center">
   <h1>Nexus Bot </h1>
 
