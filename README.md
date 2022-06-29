@@ -12,7 +12,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+[![made-with-nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org/)
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -23,17 +26,17 @@
   <br />
 
   <p align="center">
-  Easily see your recent LoL winrates with friends on Discord, instead of going to OPGG. 🤖🤖🤖
+  Easily see your recent win rate stats by friend on Discord 🤖🤖🤖
+  <br/>
+  I :heart: League of Legends
     <br />
-    <a href="https://jesusyanez.github.io/Techline/"><strong>View Demo »</strong></a>
-    <br />
-    <br />
+
   </p>
 </div>
 
 <div align="center">
   <a href="https://jesusyanez.github.io/Techline/">
-    <img src="images/techline_screenshot.png" alt="Product Screenshot">
+    <img src="images/nexus-example.png" alt="Product Screenshot">
   </a>
 </div>
 
@@ -67,6 +70,13 @@ Under the hood:
 * [Node.js](https://nodejs.org/)
 * [Raspberry Pi OS (Debian Linux)](https://jquery.com/)
 
+## Install
+* git clone
+* npm install
+* create discord bot and get token
+* create env with token
+* host on server or raspberry pi
+
 
 
 <!-- LICENSE -->
@@ -93,7 +103,6 @@ Project Link: [https://github.com/jesusyanez/Nexus-Bot](https://github.com/jesus
 ## Shout Outs
 
 
-* [Discord.js  (Python Reddit API Wrapper)](https://praw.readthedocs.io/en/stable/)
-
+* [Discord.js](https://discord.js.org/#/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
