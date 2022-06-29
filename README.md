@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://jesusyanez.github.io/Techline/">
-    <img src="images/nexus-example.png" alt="Product Screenshot">
+    <img src="images/nexus.png" alt="Product Screenshot">
   </a>
 </div>
 
