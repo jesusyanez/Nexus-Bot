@@ -30,7 +30,7 @@
   <br />
 
   <p align="center">
-  🤖 Easily see your team's recent winrate stats on Discord 🤖
+  🤖 Easily see your team's recent winrates on Discord 🤖
   <br/>
   I :heart: League of Legends
     <br />
