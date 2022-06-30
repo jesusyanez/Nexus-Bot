@@ -30,7 +30,7 @@
   <br />
 
   <p align="center">
-  Easily see your recent win rate stats by friend on Discord 🤖🤖🤖
+  🤖 Easily see your team's recent winrate stats on Discord 🤖
   <br/>
   I :heart: League of Legends
     <br />
@@ -52,7 +52,7 @@
 
 </br>
 
-I built this for me and my friends to use. I streamlined the following process, which we would continuously repeat:
+I built this for me and my friends to use. I streamlined the following process, which we would repeat continuously:
 
 1. Go to OP.GG
 2. Screenshot stats
@@ -70,7 +70,6 @@ Under the hood:
 
 
 ## Built With
-* [JavaScript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/)
 * [Raspberry Pi OS (Debian Linux)](https://jquery.com/)
 
