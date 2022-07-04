@@ -13,7 +13,6 @@
 -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 [![made-with-nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org/)
 
 
@@ -30,7 +29,7 @@
   <br />
 
   <p align="center">
-  🤖 Easily see your team's recent winrates on Discord 🤖
+  🤖 Easily see your winrate with each LoL friend on Discord 🤖
   <br/>
   I :heart: League of Legends
     <br />
@@ -40,7 +39,7 @@
 
 <div align="center">
   <a href="https://jesusyanez.github.io/Techline/">
-    <img src="images/nexus.PNG" alt="Product Screenshot">
+    <img src="images/nexus-test.PNG" alt="Product Screenshot">
   </a>
 </div>
 
@@ -71,7 +70,7 @@ Under the hood:
 
 ## Built With
 * [Node.js](https://nodejs.org/)
-* [Raspberry Pi OS (Debian Linux)](https://jquery.com/)
+* [Raspberry Pi OS (Debian Linux)](https://jquery.com/) - optional
 
 ## Install
 * git clone
