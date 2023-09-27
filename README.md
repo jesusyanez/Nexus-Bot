@@ -29,10 +29,9 @@
   <br />
 
   <p align="center">
-  🤖 Easily see your winrate with each LoL friend on Discord 🤖
+  A discord bot for League of Legends stats with friends.
   <br/>
-  I :heart: League of Legends
-    <br />
+
 
   </p>
 </div>
@@ -51,20 +50,7 @@
 
 </br>
 
-I built this for me and my friends to use. I streamlined the following process, which we would repeat continuously:
 
-1. Go to OP.GG
-2. Screenshot stats
-3. Send screenshot on discord
-
-Under the hood:
-1. Discord bot takes in command sent on server
-2. Uses my [npm package](https://www.npmjs.com/package/opgg-duo-scraper) for scraping these specific stats from op.gg
-3. Transforms the stats into markdown table
-4. Bot replies with your requested data
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
